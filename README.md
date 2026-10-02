@@ -353,6 +353,4 @@ The objective is to demonstrate not only individual tools, but how they work tog
 
 DevOps & Cloud Engineering
 
-GitHub: `<your-github-url>`
 
-LinkedIn: `<your-linkedin-url>`
